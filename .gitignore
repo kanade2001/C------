@@ -1,4 +1,2 @@
 /.vscode
-/Program1.exe
-/Program2.exe
-/Program3.exe
+*.exe
