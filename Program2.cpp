@@ -1,3 +1,5 @@
+//変数の宣言、代入
+//入出力
 #include <iostream>
 
 int main()
